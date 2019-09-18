@@ -876,6 +876,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 5px;
 }
 
+/* Classe feita para sobreescrever  */
+#schedule .schedule-item-editado h4 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 7px;
+}
+
 #schedule .schedule-item h4 span {
   font-style: italic;
   color: #19328e;
